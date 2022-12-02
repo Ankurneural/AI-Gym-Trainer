@@ -3,10 +3,6 @@
 An assistant to help you with the gym excersises
 
 ## List of team members
-* Shrisha Shridhar Hegde
-  * shrisha.hegde@sjsu.edu
-  * 015955797
-  * MS AI
 * Suruchi Sharma
   * suruchi.sharma@sjsu.edu
   * 015900794
@@ -17,7 +13,7 @@ An assistant to help you with the gym excersises
   * MS AI
 
 ## Team Coordinator
-Shrisha Shridhar Hegde
+PLaceHolder
 
 ## Execution Summary
 
