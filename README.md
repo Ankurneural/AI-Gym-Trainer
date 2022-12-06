@@ -11,7 +11,11 @@ An assistant to help you with the gym excersises
   * ankur@sjsu.edu
   * 015266316
   * MS AI
-
+* Pranai Ramineni
+  * pranairamineni@sjsu.edu
+  * 016664297
+  * MS AI
+  
 ## Team Coordinator
 PLaceHolder
 
