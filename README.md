@@ -91,6 +91,8 @@ Software Tools and Hardware:
 Due to the sheer volume of the data, we have utilized HPC resources to store, process and develop the solution in conjunction with drives and local compute resources.
 All of the development is done in Python and Jupyter notebooks.
 
+![Alt text](rep_net_achi.jpg?raw=true "Repnet Architecture")
+
 Results:
 Our results include output video files from our solutions.
 One of the solution gives the true repetition count. Another use case provides the similarity score between two videos.
