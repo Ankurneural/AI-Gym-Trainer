@@ -15,6 +15,14 @@ An assistant to help you with the gym excersises
   * pranairamineni@sjsu.edu
   * 016664297
   * MS AI
+* Drona Jagad Kaushik
+  * 
+  * 
+  * MS AI
+* Nemil 
+  * 
+  * 
+  * MS AI
   
 ## Team Coordinator
 PLaceHolder
@@ -23,7 +31,6 @@ PLaceHolder
 
 Clone the repositry and set up the environment:
 ```
-git clone https://github.com/shrishashegde/AI-Gym-Trainer.git
 conda create ai_gym_trainer
 pip install -r requirements.txt
 ```
@@ -111,13 +118,6 @@ https://user-images.githubusercontent.com/27442644/204417662-d50205b4-13fe-4a66-
 ### Yolo v7 based pose estimation rep count output
 https://user-images.githubusercontent.com/27442644/204417631-d1d34404-0f54-4aaf-aee4-4f51867556b4.mp4
 
-
-## Work Contributions
-| Team member                 | Responsibility           | Contributions  |
-| --------------------------- |:------------------------:| :--------------|
-| Shrisha Shridhar Hegde      | Dataset gathering, Critical angle extraction, mediapipe pose extraction, wrapper for extracting angles, code improvement by using OOPS, report and presentation | 1) Coding of pose, effective rep count, wrapper for extracting angles. About 34% of the entire project <br /> 2) Testing <br /> 3) PPT <br /> 4) Coordinator|
-| Suruchi Sharma              |Annotating the videos using yolov7 network , counting total number of repetitions in videos  using repnet,some part of presentation|1)Computing total repetitions, yolov7 , preparing final output video. About 33% of the entire project <br/> 2) PPT <br /> 3) Executive Summary-Yolo section in report |
-| Ankur                       |Testing repetition count implementation, Video Synchronization and similarity scores, Literature reviews, Code Testing.   | 1) Video Synchronization Implementation, Output Video, Merging. About 33% of the entire project <br /> 2) Testing <br /> 3) Abstract, documentation and PPT |
 
 ## References
 1. Dwibedi, Debidatta, et al. "Counting out time: Class agnostic video repetition counting in the wild." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
