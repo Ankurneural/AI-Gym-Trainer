@@ -16,12 +16,12 @@ An assistant to help you with the gym excersises
   * 016664297
   * MS AI
 * Drona Jagad Kaushik
-  * 
-  * 
+  * dronakaushik.jagad@sjsu.edu
+  * 016651206
   * MS AI
-* Nemil 
-  * 
-  * 
+* Nemil Panchamia
+  * nemilnilesh.panchamia@sjsu.edu
+  * 016145272
   * MS AI
   
 ## Team Coordinator
